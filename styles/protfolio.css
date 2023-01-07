@@ -74,7 +74,7 @@ header{
 
 }
 .about{
-    margin: 130px;
+    margin: 100px;
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
@@ -93,3 +93,45 @@ header{
     color:#474747;
     text-align: center;
 }
+.description{
+    color:#757575;
+}
+
+.what-i-do{
+    margin-bottom:151px;
+
+}
+
+.conteiner{
+    display: flex;
+}
+h3{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.sijan{
+    display: flex;
+}
+h1{
+    text-align: center;
+}
+.hr{
+    margin-right:20px;
+}
+.resumy{
+    margin-bottom:50px;
+}
+.yap{
+    text-align: center;
+}
+.ruhul{
+    font-weight: 800;
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    font-size:20px;
+    color: #FFFFFF;
+    border: 0px;
+    padding: 18px 35px;
+}
+
